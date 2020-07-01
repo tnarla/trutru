@@ -1,0 +1,15 @@
+{
+  "name": "trutru",
+  "version": "1.0.0",
+  "description": "Adds the missing global property",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Jordan Gensler <jordangens@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "globalthis": "^1.0.1"
+  }
+}
