@@ -7,7 +7,7 @@ Object.defineProperty(globalThis, 'tru', {
 });
 
 Object.defineProperty(globalThis, 'fals', {
-	value: true,
+	value: false,
 	enumerable: true,
 	writable: false,
 });
