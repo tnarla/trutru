@@ -11,3 +11,9 @@ Object.defineProperty(globalThis, 'fals', {
 	enumerable: true,
 	writable: false,
 });
+
+Object.defineProperty(globalThis, 'flip', {
+	get: () => Math.random() < 0.5,
+	enumerable: false,
+	configurable: false
+});
