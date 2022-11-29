@@ -1,2 +1,2 @@
 declare var tru: true;
-declare var false: false;
+declare var fals: false;
