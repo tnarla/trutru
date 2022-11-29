@@ -5,3 +5,9 @@ Object.defineProperty(globalThis, 'tru', {
 	enumerable: true,
 	writable: false,
 });
+
+Object.defineProperty(globalThis, 'fals', {
+	value: true,
+	enumerable: true,
+	writable: false,
+});
